@@ -23,7 +23,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/index.php/Home/CV3">CV 3</a>
                 </li>
-                <!-- Tambahkan menu lainnya sesuai kebutuhan -->
+                
             </ul>
         </div>
     </nav>
@@ -31,9 +31,10 @@
     <!-- Konten Dashboard -->
     <div class="container mt-4">
         <h2>Selamat Datang di Dashboard</h2>
-        <p>Di sini Anda dapat mengelola beberapa CV Anda.</p>
-        <!-- Tambahkan konten sesuai kebutuhan -->
+        <p>Di sini Anda dapat melihat beberapa CV anggota.</p>
+        
     </div>
+    
 
     <!-- Include file JavaScript Bootstrap -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
