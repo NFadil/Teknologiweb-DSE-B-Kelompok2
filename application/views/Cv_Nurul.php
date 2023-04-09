@@ -26,16 +26,27 @@
     }
     .white-box {
             background-color: white;
-            padding: 10px;
-            border-radius: 5px;
-        }
+            padding: 20px;
+            border-radius: 20px;
+    }
+
+
   </style>
 </head>
 <body>
-  <div class="container mt-5 white-box " >
+  <div class="container mt-7 white-box " >
+  <div class="media">
+  <img src="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/assets/image/profil.jpg" class="align-self-center mr-3"width="300" height="400" alt="...">
+  <div class="media-body">
+    <h5 class="mt-5">Hello! Introduce,</h5>
+    <p>My name is Nurul Fadhilah Anwar. I am a 22 year old male who is currently studying at Jenderal Achmad Yani University, class of 20, majoring in Informatics.</p>
+    <p>I have a great interest in the world of information technology, especially in the field of programming and application development.</p>
+  </div>
+</div>
   
-    <h1 class="display-1 ">Curriculum Vitae</h1>
-    <div class="row mt-3  ">
+  
+    <div class="row mt-3 ">
+
       <div class="col-md-6">
         <h2 class="display-4 ">Personal Information</h2>
         <ul>
