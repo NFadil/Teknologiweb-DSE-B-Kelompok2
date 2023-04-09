@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
 	<title>Curriculum Vitae</title>
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2//assets/css/style.css">
 
 </head>
 <body>
@@ -11,7 +11,7 @@
 	
 	<div class="left-section">
 		<div class="profile">
-		<img src="image/hani.png" class="profile-img">
+		<img src="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/assets/image/hani.png" class="profile-img">
 		<div class="blue-box"></div>
 		</div>
 		<h2 class="name">Adhani<br><span>Mulianti</span></h2>
@@ -20,22 +20,22 @@
 
 		<div class="info">
 			<p class="heading">Info</p>
-			<p class="p1"><span class="span1"><img src="image/location.png"></span>Alamat<span> <br>Purwakarta</span></p>
-			<p class="p1"><span class="span1"><img src="image/call.png"></span>Phone<span> <br>081572185224</span></p>
-			<p class="p1"><span class="span1"><img src="image/mail.png"></span>Email<span> <br>adhanimulianti20@if.unjani.ac.id</span></p>
+			<p class="p1"><span class="span1"><img src="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/assets/image/location.png"></span>Alamat<span> <br>Purwakarta</span></p>
+			<p class="p1"><span class="span1"><img src="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/assets/image/call.png"></span>Phone<span> <br>081572185224</span></p>
+			<p class="p1"><span class="span1"><img src="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2//assets/image/mail.png"></span>Email<span> <br>adhanimulianti20@if.unjani.ac.id</span></p>
 		</div>
 
 		<div class="info">
 			<p class="heading">Media Sosial</p>
-			<p class="p1"><span class="span1"><img src="image/ig.png"></span>Instagram<span> <br>@adhanimulianti</span></p>
-			<p class="p1"><span class="span1"><img src="image/twitter.png"></span>Twitter<span> <br>bajiguree</span></p>
+			<p class="p1"><span class="span1"><img src="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/assets/image/ig.png"></span>Instagram<span> <br>@adhanimulianti</span></p>
+			<p class="p1"><span class="span1"><img src="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/assets/image/twitter.png"></span>Twitter<span> <br>bajiguree</span></p>
 		</div>
 
 	</div>
 
 	<div class="right-section">
 		<div class="right-heading">
-			<img src="image/about me.png">
+			<img src="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/assets/image/about me.png">
 			<p class="p2">About Me</p>
 		</div>
 		<p class="p3"></p>
@@ -43,7 +43,7 @@
 		<div class="clearfix"></div>
 		<br><br>
 		<div class="right-heading">
-			<img src="image/toga.png">
+			<img src="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/assets/image/toga.png">
 			<p class="p2">Education</p>
 		</div>
 		<div class="clearfix"></div>
@@ -98,7 +98,7 @@
 		
 		<br>
 		<div class="right-heading">
-			<img src="image/skill.png">
+			<img src="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/assets/image/skill.png">
 			<p class="p2">Skill</p>
 		</div>
 		<div class="clearfix"></div>
@@ -120,13 +120,13 @@
 		<div class="clearfix"></div>
 		<br><br>
 		<div class="right-heading">
-			<img src="image/hobi.png">
+			<img src="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/assets/image/hobi.png">
 			<p class="p2">Hobby</p>
 		</div>
 		<div class="clearfix"></div>
-		<img src="image/bicycle.png" class="h-img">
-		<img src="image/games.png" class="h-img">
-		<img src="image/book.png" class="h-img">
+		<img src="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/assets/image/bicycle.png" class="h-img">
+		<img src="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/assets/image/games.png" class="h-img">
+		<img src="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/assets/image/book.png" class="h-img">
 	</div>
 
 		<div class="clearfix"></div>
