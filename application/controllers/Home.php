@@ -3,6 +3,8 @@ class Home extends CI_Controller{
 
     function Index(){
         $this->load->view('dashboard');
+        $this->load->view('Card');
+        
         
     }
     function CV1(){
