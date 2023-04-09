@@ -9,6 +9,21 @@
     <style>
         body {
             background-color: #f7f7f7;
+            background: linear-gradient(to right, #ff5f6d, #ffc371, #fffc00);
+            background-size: 400% 400%;
+            animation: gradient 10s ease infinite;
+        }
+
+        @keyframes gradient {
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
         }
 
         h1, h2 {
@@ -46,7 +61,7 @@
 </head>
 <body>
     <div class="container">
-        <img src="Polish_20221013_142855825 (1).jpg" alt="Curriculum Vitae" class="img-fluid mx-auto d-block" width="100" height="100">
+        <img src="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/assets/image/Polish_20221013_142855825 (1).jpg" alt="Curriculum Vitae" class="img-fluid mx-auto d-block" width="100" height="100">
         <br>
         <div class="row">
             <div class="col-md-12">
