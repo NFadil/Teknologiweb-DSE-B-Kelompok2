@@ -13,21 +13,21 @@
   <div class="card">
     <img src= "http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/assets/image/profil.jpg" class="card-img-top"width="100" height="600" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Nurul Fadhilah Anwar</h5>
+      <a class="card-title" href="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/index.php/Home/CV1">Nurul Fadhilah Anwar </a>
       
     </div>
   </div>
   <div class="card">
     <img src="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/assets/image/Polish_20221013_142855825 (1).jpg" class="card-img-top"width="100" height="600" alt="...">
     <div class="card-body">
-      <h5 class="card-title">Alfin Gerlian</h5>
+      <a  class="card-title" href="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/index.php/Home/CV2">Alfin Gerlian</h5>
       
     </div>
   </div>
   <div class="card">
     <img src="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/assets/image/hani.png" class="card-img-top" width="100" height="600"alt="...">
     <div class="card-body">
-      <h5 class="card-title">Adhani Mulianti</h5>
+      <h5 class="card-title" href="http://localhost/CI_Tekweb_kel2/Teknologiweb-DSE-B-Kelompok2/index.php/Home/CV3" >Adhani Mulianti</h5>
       
       
     </div>
